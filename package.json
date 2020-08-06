@@ -1,0 +1,27 @@
+{
+  "name": "unuse-webpack-plugin",
+  "version": "1.0.0",
+  "description": "count unused files",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/YinDongFang/unuse-webpack-plugin.git"
+  },
+  "keywords": [
+    "webpack",
+    "plugin"
+  ],
+  "author": {
+    "name": "yindongfang",
+    "email": "1136005348@qq.com",
+    "url": "https://github.com/YinDongFang/"
+  },
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/YinDongFang/unuse-webpack-plugin/issues"
+  },
+  "homepage": "https://github.com/YinDongFang/unuse-webpack-plugin#readme"
+}
